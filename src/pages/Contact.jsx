@@ -14,9 +14,9 @@ const Contact = () => {
               <p className="text-gray-300">Have a question or need support? We're here to help you with your electronics journey.</p>
             </div>
             <div>
-              <p><strong>📍 Address:</strong> 123 Tech Lane, Kolkata, India</p>
+              <p><strong>📍 Address:</strong> IIIT DELHI, India</p>
               <p><strong>📧 Email:</strong> support@ApniDukaan.com</p>
-              <p><strong>📞 Phone:</strong> +91 98765 43210</p>
+              <p><strong>📞 Phone:</strong> +91 7282877461</p>
             </div>
           </div>
 
