@@ -1,6 +1,9 @@
 ## 🛍️ ApniDukaan — React E-commerce Frontend with Clerk Authentication
 ApniDukaan is a responsive React frontend project simulating a modern e-commerce experience. It includes authentication with Clerk, dynamic product listings, cart management, address form, and a checkout confirmation page.
 
+# Deployment Link
+https://apnidukaanfrontend.netlify.app/
+
 ## ✨ Features
 🔐 User Authentication via Clerk.dev
 
