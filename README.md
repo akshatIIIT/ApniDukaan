@@ -25,7 +25,9 @@ React Router	    Client-side Routing
 React Icons	      Icon library
 React Toastify	      Notifications```
 
+
 ## Project Structure
+
 ``` ApniDukaan/
 ├── public/
 │   └── assets/
