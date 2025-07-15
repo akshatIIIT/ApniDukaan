@@ -17,13 +17,13 @@ ApniDukaan is a responsive React frontend project simulating a modern e-commerce
 📱 Fully responsive UI with Tailwind CSS
 
 ## 🧑‍💻 Technologies Used
-# Tech	          Purpose
+```# Tech	          Purpose
 React	            Frontend Framework
 Clerk	            User Authentication
 Tailwind CSS	    Styling & Responsiveness
 React Router	    Client-side Routing
 React Icons	      Icon library
-React Toastify	  Notifications
+React Toastify	  Notifications```
 
 ## Project Structure
 ``` ApniDukaan/
