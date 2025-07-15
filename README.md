@@ -26,7 +26,7 @@ React Icons	      Icon library
 React Toastify	  Notifications
 
 ## Project Structure
-''' ApniDukaan/
+``` ApniDukaan/
 ├── public/
 │   └── assets/
 │       ├── empty-cart.png
@@ -78,4 +78,4 @@ React Toastify	  Notifications
 ├── package-lock.json
 ├── vite.config.js
 ├── README.md                    # You'll add this here
-└── .env.local                   # Your Clerk keys (not committed)'''
+└── .env.local                   # Your Clerk keys (not committed)```
